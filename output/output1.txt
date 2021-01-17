@@ -1,0 +1,42 @@
+PS H:\Read\num\x64\Release> .\eSievePro
+ Eratosthenes sieve: a method to find out all primes below the number that you specify here please: 100
+
+ Only the sum of all primes needed [y/n](y as default): n
+
+ Start to work out all primes below 100...
+ 25 primes found in 0 milliseconds.
+
+2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,97
+PS H:\Read\num\x64\Release> .\eSievePro
+ Eratosthenes sieve: a method to find out all primes below the number that you specify here please: 12345678
+
+ Only the sum of all primes needed [y/n](y as default):
+
+ Start to work out the sum of all primes below 12345678...
+ 809227 primes found in 63 milliseconds.
+
+PS H:\Read\num\x64\Release> .\eSievePro
+ Eratosthenes sieve: a method to find out all primes below the number that you specify here please: 123456789
+
+ Only the sum of all primes needed [y/n](y as default):
+
+ Start to work out the sum of all primes below 123456789...
+ 7027260 primes found in 1031 milliseconds.
+
+PS H:\Read\num\x64\Release> .\eSievePro
+ Eratosthenes sieve: a method to find out all primes below the number that you specify here please: 1234567890
+
+ Only the sum of all primes needed [y/n](y as default):
+
+ Start to work out the sum of all primes below 1234567890...
+ 62106578 primes found in 12375 milliseconds.
+
+PS H:\Read\num\x64\Release> .\eSievePro
+ Eratosthenes sieve: a method to find out all primes below the number that you specify here please: 1234567
+
+ Only the sum of all primes needed [y/n](y as default):
+
+ Start to work out the sum of all primes below 1234567...
+ 95360 primes found in 0 milliseconds.
+
+PS H:\Read\num\x64\Release> 
